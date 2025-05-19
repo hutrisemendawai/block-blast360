@@ -1,0 +1,23 @@
+
+```gitignore
+# .gitignore
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE folders
+.vscode/
+.idea/
+
+# High score file
+highscore.txt
+
+# Logs and temp
+*.log
